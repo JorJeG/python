@@ -1,0 +1,3 @@
+In Python you can write a game
+In Python you can visualize a data
+In Python you can write a network page
